@@ -1,4 +1,4 @@
-package main
+package gmoji
 
 import (
 	"html"
@@ -28,30 +28,6 @@ func (g Gmoji) String() string {
 }
 
 type GmojiWithEffect Gmoji
-// struct 
-// {
-	// oneEffectCode string 
-	// twoEffectCode string 
-	// defaultEffect string 
-// }
-
-// func newGmojiWithEffect(codes ...string) GmojiWithEffect {
-// 	if len(codes) == 0 {
-// 		return GmojiWithEffect{}
-// 	}
-
-// 	one := codes[0]
-// 	two := codes[0]
-
-// 	if len(codes) > 1 {
-// 		two = codes[1]
-// 	} 
-
-// 	return GmojiWithEffect{
-// 		oneEffectCode: one,
-// 		twoEffectCode: two,
-// 	}
-// }
 
 func (g GmojiWithEffect) Effect(effects ...Effect) GmojiWithEffect {
 	str := string(g)
@@ -91,28 +67,3 @@ func countryCodeLetter(l byte) string {
 func main() {
 	fmt.Println("We Can Do That !!!")
 }
-
-// New Effect
-// if len(effects) == 0 {
-// 	return g.String()
-// }
-
-// str := g.twoEffectCode
-// replaceCount := 1 
-
-// if len(effects) == 1 {
-// 	str = g.oneEffectCode
-// 	replaceCount = -1 
-// }
-
-// for _, t := range effects {
-// 	// use emoji's default effect 
-// 	if t == Default {
-// 		t = e.defaultEffect
-// 	}
-
-// 	// str = strings.Replace(str, Ef)
-// }
-
-// return str
-// // Not Completed
