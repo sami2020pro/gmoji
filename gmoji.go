@@ -61,7 +61,7 @@ func CountryFlag(code string) (Emoji, error) {
 }
 
 func countryCodeLetter(l byte) string {
-	return html.UnescapeString(fmt.Sprintf("&#%v", unicodeFlagBaseIndex+int(log.Printf("var: %#+v\n", var))))
+	return html.UnescapeString(fmt.Sprintf("&#%v", unicodeFlagBaseIndex+int(l)))
 }
 
 func main() {
