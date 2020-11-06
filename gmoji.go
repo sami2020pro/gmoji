@@ -49,7 +49,7 @@ func (e Effect) String() string {
 	return string(e)
 }
 
-func CountryFlag(code string) (Emoji, error) {
+func CountryFlag(code string) (Gmoji, error) {
 	if len(code) != 2 {
 		return "", fmt.Errorf("not valid country code: %q", code)
 	}
