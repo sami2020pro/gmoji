@@ -8,7 +8,7 @@ package gmoji
 	}
 **/
 
-const (
+var (
 	Glass Gmoji 			= "\uf001",
 	Music Gmoji 			= "\uf001",
 	Search Gmoji 			= "\uf002",
