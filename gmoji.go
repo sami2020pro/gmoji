@@ -8,7 +8,7 @@ import (
 
 type Gmoji string
 
-type All Gmoji
+type All string
 
 func replace(str string) string {
 	match := regexp.MustCompile(`:\w*:`)
