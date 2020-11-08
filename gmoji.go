@@ -18,7 +18,7 @@ func replace(str string) string {
 	rawGmoji := match.FindString(str)
 	bakeGmoji := strings.Trim(rawGmoji, ":")
 
-	newstr := string(strings.Replace(str, match.FindString(str), gmoji.bakeGmoji, -1))
+	newstr := string(strings.Replace(str, match.FindString(str), gmoji.Glass, -1))
 
 	return newstr
 }
