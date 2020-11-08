@@ -53,7 +53,7 @@ const (
 	Tags                    Gmoji = "\uf02c"
 	Book                    Gmoji = "\uf02d"
 	Bookmark                Gmoji = "\uf02e"
-	Print                   Gmoji = "\uf02f"
+	PrintEmoji              Gmoji = "\uf02f"
 	Camera                  Gmoji = "\uf030"
 	Font                    Gmoji = "\uf031"
 	Bold                    Gmoji = "\uf032"
