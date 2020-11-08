@@ -9,7 +9,7 @@ package gmoji
 **/
 
 const (
-	all                     Gmoji = All
+	all                     Gmoji = Gmoji
 	Glass                   Gmoji = "\uf000"
 	Music                   Gmoji = "\uf001"
 	Search                  Gmoji = "\uf002"
