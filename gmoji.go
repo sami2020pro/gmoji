@@ -8,17 +8,15 @@ import (
 
 type Gmoji string
 
-func (g Gmoji) String() string {
-	return string(g)
-}
+type All Gmoji
 
 func replace(str string) string {
 	match := regexp.MustCompile(`:\w*:`)
 
-	//rawGmoji := match.FindString(str)
-	//bakeGmoji := strings.Trim(rawGmoji, ":")
+	rawGmoji := match.FindString(str)
+	bakeGmoji := strings.Trim(rawGmoji, ":")
 
-	newstr := string(strings.Replace(str, match.FindString(str), string(Glass), -1))
+	newstr := string(strings.Replace(str, match.FindString(str), fmt.Sprint("%s", string(All)), -1))
 
 	return newstr
 }
