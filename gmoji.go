@@ -2,21 +2,20 @@ package gmoji
 
 import (
 	"fmt"
-	"regexp"
 	"strings"
 )
 
-type Gmoji string
-
-type All string
-
-func replace(str string) string {
+var (
 	match := regexp.MustCompile(`:\w*:`)
 
 	rawGmoji := match.FindString(str)
 	bakeGmoji := strings.Trim(rawGmoji, ":")
+)
 
-	newstr := string(strings.Replace(str, match.FindString(str), fmt.Sprint("%s", string(All)), -1))
+type Gmoji string
+
+func replace(str string) string {
+	newstr := string(strings.Replace(str, match.FindString(str), fmt.Sprint("%s", string(bakeGmoji)), -1))
 
 	return newstr
 }
