@@ -36,15 +36,17 @@ func Parse(input string) string {
 		match := matched.String()
 		alias := match + ":"
 
-		if code, ok = find(alias); ok {
+		if code, ok := find(alias); ok {
 			output.WriteString(code)
 			matched.Reset()
 			continue
 		}
 
 		output.WriteString(match)
+
 		matched.Reset()
 		matched.WriteRune(r)
+
 	}
 
 	if matched.Len() != 0 {
