@@ -4,7 +4,7 @@ package gmoji
 	Font Awesome Emojis
 	Versions
 	{
-		from 1.0 to 4.7 is available
+		from 1.0 to 2.0 is available
 	}
 **/
 
@@ -168,6 +168,6 @@ const (
 
 /*
 O-------------------------------O
-O License: MIT 				    O
+O License: MIT | Copyright 2020 O
 O-------------------------------O
 */
