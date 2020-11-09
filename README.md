@@ -56,7 +56,7 @@ func main() {
 
 Output
 
-![gmoji usage output](data/golang-output.png)
+![gmoji usage output](data/gmoji-output.png)
 
 # Testing 🍷
 ```golang
