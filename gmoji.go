@@ -2,30 +2,30 @@ package gmoji
 
 import (
 	"fmt"
+	"regexp"
 	"strings"
-)
-
-var (
-	match := regexp.MustCompile(`:\w*:`)
-
-	rawGmoji := match.FindString(str)
-	bakeGmoji := strings.Trim(rawGmoji, ":")
 )
 
 type Gmoji string
 
-func replace(str string) string {
-	newstr := string(strings.Replace(str, match.FindString(str), fmt.Sprint("%s", string(bakeGmoji)), -1))
+func Parse(str string) string {
+	match := regexp.MustCompile(`:\w*:`)
+	gmoji := match.FindString(str)
+	strings.Trim(gmoji, ":")
 
-	return newstr
+	for k, v := range gmojiMap {
+		if gmoji == k {
+			fmt.Printf("%s\n", v)
+		}
+	}
 }
 
 func Print(str string) {
-	fmt.Print(replace(str))
+	fmt.Print(Parse(str))
 }
 
 func Println(str string) {
-	fmt.Println(replace(str))
+	fmt.Println(Parse(str))
 }
 
 /*
