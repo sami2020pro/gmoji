@@ -28,7 +28,7 @@
 
 # Install 🤠
 
-```html
+```golang
 go get -u github.com/sami2020pro/gmoji
 ```
 
