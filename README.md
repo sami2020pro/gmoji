@@ -55,7 +55,7 @@ func main() {
 
 /* OUTPUT
 
-    Hello 
+    Hello &#8364
     I love 
     Emoji aliases are 
     Use fmt wrappers 
