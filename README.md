@@ -64,7 +64,9 @@ go test
 ```
 
 # References 📃
-FioBar
+<ul>
+  <li><a style="text-decoration: none;" href="https://www.fontawesomecheatsheet.com/">fontawesomecheatsheet</a></li>
+</ul>
 
 # Contributing 💻
 FooBar
