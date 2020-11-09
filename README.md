@@ -1,4 +1,5 @@
 # gmoji 😎
+/wercker/build/:userName/:applicationName/:branch
 
 `gmoji` is a emoji library for Go. It lets you use emoji characters in strings and you can use in **Terminal**.
 
@@ -31,7 +32,7 @@ func main() {
 
 /* OUTPUT
 
-    Hello \uf000
+    Hello 
     I love 
     Emoji aliases are 
     Use fmt wrappers 
