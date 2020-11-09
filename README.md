@@ -1,10 +1,4 @@
 # gmoji 😎
-<img
-    src="/wercker/build/:userName/:applicationName/:branch"
-    alt="coverage 100%"
-    style="max-width:100%;"
-/>
-
 
 `gmoji` is a emoji library for Go. It lets you use emoji characters in strings and you can use in **Terminal**.
 
