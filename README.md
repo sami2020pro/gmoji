@@ -74,3 +74,5 @@ FooBar
 
 # License 📜
 The MIT License (MIT). Please see <a href="https://github.com/sami2020pro/suftime/blob/master/LICENSE">License File</a> for more information.
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
