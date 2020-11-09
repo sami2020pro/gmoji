@@ -65,7 +65,7 @@ go test
 
 # References 📃
 <ul>
-  <li><a style="text-decoration: none;" href="https://www.fontawesomecheatsheet.com/">fontawesomecheatsheet</a></li>
+  <li><a href="https://www.fontawesomecheatsheet.com/" style="text-decoration: none;">fontawesomecheatsheet</a></li>
 </ul>
 
 # Contributing 💻
