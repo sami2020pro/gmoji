@@ -57,7 +57,7 @@ func main() {
 Output
 
 <img
-src="gmoji/data/golang-output.png"
+src="gmoji/image/golang-output.png"
 raw=true
 alt="gmoji usage output"
 style="margin-right: 10px;"
