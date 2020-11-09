@@ -64,8 +64,6 @@ func main() {
 
 ```
 
-:calling:
-
 # Testing 🍷
 ```golang
 go test
