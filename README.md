@@ -56,12 +56,7 @@ func main() {
 
 Output
 
-<img
-src="https://github.com/sami2020pro/gmoji/blob/main/gmoji/data/golang-output.png"
-raw=true
-alt="gmoji usage output"
-style="margin-right: 10px;"
-/>
+![gmoji usage output]("data/golang-output.png")
 
 # Testing 🍷
 ```golang
