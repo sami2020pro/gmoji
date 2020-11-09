@@ -69,6 +69,9 @@ func main() {
 go test
 ```
 
+# References 📃
+FioBar
+
 # Contributing 💻
 FooBar
 
