@@ -24,6 +24,12 @@
   </a>
 </div>
 
+<!--<img
+  src=""
+  alt=""
+  style=""
+/>-->
+
 `gmoji` is a emoji library for Go. It lets you use emoji characters in strings and you can use in **Terminal**.
 
 # Install 🤠
@@ -71,7 +77,7 @@ Output
 go test
 ```
 # Contributing 💻
-You Can Send **Pull Request**
+You can send **Pull Request**
 
 # References 📃
 <ul>
