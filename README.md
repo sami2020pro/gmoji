@@ -1,24 +1,24 @@
 # gmoji 😎
 
 <div>
-  <a href="https://github.com/sami2020pro/suftime/blob/main/suftime/product/version.txt">
+  <a href="">
     <img
-    src="https://img.shields.io/badge/version-0.2.0-brightgreen"
-    alt="coverage 100%"
+    src="https://img.shields.io/badge/version-0.1.0-brightgreen"
+    alt="gmoji | version 0.1.0 | gmoji library"
     style="max-width:100%;"
     />
   </a>
   <a href="https://golang.org/">
     <img
     src="https://img.shields.io/badge/language-golang-brightgreen"
-    alt="coverage 100%"
+    alt="gmoji | language golang | golang library"
     style="max-width:100%;"
     />
   </a>
-  <a href="https://github.com/sami2020pro/suftime/blob/master/LICENSE">
+  <a href="https://github.com/sami2020pro/gmoji/blob/master/LICENSE">
     <img 
     src="https://img.shields.io/badge/License-GPLv3-brightgreen"
-    alt="GPLv3 License"
+    alt="gmoji | GPLv3 License | gmoji library"
     style="max-width:100%;"
     />
   </a>
