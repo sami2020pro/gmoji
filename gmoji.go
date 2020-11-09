@@ -15,9 +15,11 @@ func Parse(str string) string {
 
 	for k, v := range gmojiMap {
 		if gmoji == k {
-			return v
+			newstr := fmt.Sprint("%s", v)
 		}
 	}
+
+	return string(newstr)
 }
 
 func Print(str string) {
