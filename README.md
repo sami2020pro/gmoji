@@ -76,3 +76,5 @@ FooBar
 The MIT License (MIT). Please see <a href="https://github.com/sami2020pro/suftime/blob/master/LICENSE">License File</a> for more information.
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<i class="ai ai-arxiv ai-5x"></i>
