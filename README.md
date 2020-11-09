@@ -3,14 +3,14 @@
 <div>
   <a href="">
     <img
-    src="https://img.shields.io/badge/version-0.1.0-brightgreen"
+    src="https://img.shields.io/badge/Version-0.1.0-brightgreen"
     alt="gmoji | version 0.1.0 | gmoji library"
     style="max-width:100%;"
     />
   </a>
   <a href="https://golang.org/">
     <img
-    src="https://img.shields.io/badge/language-golang-brightgreen"
+    src="https://img.shields.io/badge/Language-Golang-brightgreen"
     alt="gmoji | language golang | golang library"
     style="max-width:100%;"
     />
