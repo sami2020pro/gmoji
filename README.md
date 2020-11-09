@@ -24,7 +24,8 @@
   </a>
 </div>
 
-[![SC2 Video](data/gmoji-preview-background.jpeg)](https://photos.google.com/search/_tv_Videos/photo/AF1QipM2rO-8cU3uHtA6L5oEWD4yTGbJuaHxC0aLwIoA)
+Gmoji preview
+[![Gmoji Preview](data/gmoji-preview-background.jpeg)](https://photos.google.com/search/_tv_Videos/photo/AF1QipM2rO-8cU3uHtA6L5oEWD4yTGbJuaHxC0aLwIoA)
 
 <!--<img
   src=""
