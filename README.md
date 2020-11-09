@@ -69,5 +69,8 @@ func main() {
 go test
 ```
 
+# Contributing 💻
+FooBar
+
 # License 📜
 The MIT License (MIT). Please see <a href="https://github.com/sami2020pro/suftime/blob/master/LICENSE">License File</a> for more information.
