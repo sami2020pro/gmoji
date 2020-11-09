@@ -17,8 +17,8 @@
   </a>
   <a href="https://github.com/sami2020pro/gmoji/blob/master/LICENSE">
     <img 
-    src="https://img.shields.io/badge/License-GPLv3-brightgreen"
-    alt="gmoji | GPLv3 License | gmoji library"
+    src="https://img.shields.io/badge/License-MIT-brightgreen"
+    alt="gmoji | MIT License | gmoji library"
     style="max-width:100%;"
     />
   </a>
