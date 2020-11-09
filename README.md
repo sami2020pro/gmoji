@@ -56,24 +56,25 @@ func main() {
 
 Output
 
+<div>
 ![gmoji usage output](data/gmoji-output.png)
+</div>
 
 # Testing 🍷
 ```golang
 go test
 ```
+# Contributing 💻
+You Can Send Pull Request
 
 # References 📃
 <ul>
-  <li><a href="https://www.fontawesomecheatsheet.com/" style="text-decoration: none;">fontawesomecheatsheet</a></li>
+  <li><a href="https://www.fontawesomecheatsheet.com/" style="text-decoration:none;">fontawesomecheatsheet</a></li>
 </ul>
-
-# Contributing 💻
-FooBar
 
 # Credits ⭐
 <ul>
-  <li><a href="https://www.github.com/sami2020pro" style="text-decoration: none;">Sami Ghasemi</a></li>
+  <li><a href="https://www.github.com/sami2020pro" style="text-decoration:none;">Sami Ghasemi</a></li>
 </ul>
 
 # License 📜
