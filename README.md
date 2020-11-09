@@ -1,8 +1,6 @@
 # gmoji 😎
 
-```html
-Not Completed
-```
+`gmoji` is a emoji library for Go. It lets you use emoji characters in strings and you can use in **Terminal**.
 
 # Install 🤠
 
