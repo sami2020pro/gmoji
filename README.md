@@ -40,7 +40,10 @@ func main() {
 
 ```
 
-Testing 🍷
+# Testing 🍷
 ```golang
 go test
 ```
+
+# License 📜
+The MIT License (MIT). Please see License File for more information.
