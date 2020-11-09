@@ -55,7 +55,7 @@ func main() {
 
 /* OUTPUT
 
-    Hello (&#8364)
+    Hello 
     I love 
     Emoji aliases are 
     Use fmt wrappers 
@@ -63,6 +63,8 @@ func main() {
 */
 
 ```
+
+(&#8364)
 
 # Testing 🍷
 ```golang
