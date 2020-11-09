@@ -28,6 +28,16 @@ func main() {
         gmoji.Println("Use fmt wrappers :Eye:")
         gmoji.Print("Golang is :HeartOutlined:\n")
 }
+
+/* OUTPUT
+
+    Hello \uf000
+    I love 
+    Emoji aliases are 
+    Use fmt wrappers 
+    Golang is 
+*/
+
 ```
 
 Testing 🍷
