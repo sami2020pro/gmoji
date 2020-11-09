@@ -71,7 +71,7 @@ Output
 go test
 ```
 # Contributing 💻
-You Can Send Pull Request
+You Can Send **Pull Request**
 
 # References 📃
 <ul>
