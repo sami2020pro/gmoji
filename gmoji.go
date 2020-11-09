@@ -9,13 +9,15 @@ import (
 type Gmoji string
 
 func Parse(str string) string {
+	var newstr string
+	
 	match := regexp.MustCompile(`:\w*:`)
 	gmoji := match.FindString(str)
 	strings.Trim(gmoji, ":")
 
 	for k, v := range gmojiMap {
 		if gmoji == k {
-			newstr := fmt.Sprint("%s", v)
+			newstr = fmt.Sprint("%s", v)
 		}
 	}
 
