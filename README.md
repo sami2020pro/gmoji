@@ -29,3 +29,8 @@ func main() {
         gmoji.Print("Golang is :HeartOutlined:\n")
 }
 ```
+
+Testing 🍷
+```golang
+go test
+```
