@@ -59,7 +59,7 @@ Output
 <img
 src="gmoji/data/golang-output.png"
 raw=true
-alt="suftime | Simple Clock | GNU/Linux Distros"
+alt="gmoji usage output"
 style="margin-right: 10px;"
 />
 
