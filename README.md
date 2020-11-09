@@ -3,23 +3,23 @@
 <div>
   <a href="">
     <img
-    src="https://img.shields.io/badge/Version-0.1.0-brightgreen"
-    alt="gmoji | version 0.1.0 | gmoji library"
-    style="max-width:100%;"
+      src="https://img.shields.io/badge/Version-0.1.0-brightgreen"
+      alt="gmoji | version 0.1.0 | gmoji library"
+      style="max-width:100%;"
     />
   </a>
   <a href="https://golang.org/">
     <img
-    src="https://img.shields.io/badge/Language-Golang-brightgreen"
-    alt="gmoji | language golang | golang library"
-    style="max-width:100%;"
+      src="https://img.shields.io/badge/Language-Golang-brightgreen"
+      alt="gmoji | language golang | golang library"
+      style="max-width:100%;"
     />
   </a>
   <a href="https://github.com/sami2020pro/gmoji/blob/master/LICENSE">
     <img 
-    src="https://img.shields.io/badge/License-MIT-brightgreen"
-    alt="gmoji | MIT License | gmoji library"
-    style="max-width:100%;"
+      src="https://img.shields.io/badge/License-MIT-brightgreen"
+      alt="gmoji | MIT License | gmoji library"
+      style="max-width:100%;"
     />
   </a>
 </div>
@@ -57,7 +57,13 @@ func main() {
 Output
 
 <div>
-![gmoji usage output](data/gmoji-output.png)
+  <a href="data/gmoji-output.png">
+    <img 
+      src="data/gmoji-output.png"
+      alt="gmoji usage output"
+      style="max-width:100%;"
+    />
+  </a>
 </div>
 
 # Testing 🍷
