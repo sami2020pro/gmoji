@@ -71,5 +71,10 @@ go test
 # Contributing 💻
 FooBar
 
+# Credits ⭐
+<ul>
+  <li><a href="https://www.github.com/sami2020pro" style="text-decoration: none;">Sami Ghasemi</a></li>
+</ul>
+
 # License 📜
 The MIT License (MIT). Please see <a href="https://github.com/sami2020pro/suftime/blob/master/LICENSE">License File</a> for more information.
