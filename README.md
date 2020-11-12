@@ -80,10 +80,10 @@ Output
   </a>
 </div>
 
-# Testing 🍷
+<!--# Testing 🍷
 ```golang
 go test
-```
+```-->
 # Contributing 💻
 You can send **Pull Request**
 
