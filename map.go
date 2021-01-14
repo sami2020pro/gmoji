@@ -1,4 +1,4 @@
-package 
+package gmoji
 
 /**
 	Font Awesome Emojis
