@@ -3,7 +3,7 @@
 <div>
   <img
       src="https://img.shields.io/badge/Build-Passing-blue"
-      alt="gmoji | version 0.1.0 | gmoji library"
+      alt="gmoji | version 0.1.7 | gmoji library"
       style="max-width:100%;"
   />
   <a href="">
