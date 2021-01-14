@@ -29,8 +29,8 @@
   </a>
 </div>
 
-Gmoji preview
-[![Gmoji Preview](data/gmoji-preview-background.jpeg)](https://photos.google.com/search/_tv_Videos/photo/AF1QipM2rO-8cU3uHtA6L5oEWD4yTGbJuaHxC0aLwIoA)
+<!-- [![Gmoji Preview](data/gmoji-preview-background.jpeg)](https://photos.google.com/search/_tv_Videos/photo/AF1QipM2rO-8cU3uHtA6L5oEWD4yTGbJuaHxC0aLwIoA) -->
+[![Watch the video](data/gmoji-preview-background.jpeg)](data/gmoji-preview.mp4)
 
 <!--<img
   src=""
