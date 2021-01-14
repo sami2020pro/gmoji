@@ -3,13 +3,13 @@
 <div>
   <img
       src="https://img.shields.io/badge/Build-Passing-blue"
-      alt="gmoji | version 0.1.7 | gmoji library"
+      alt="gmoji | version 0.1.4 | gmoji library"
       style="max-width:100%;"
   />
   <a href="">
     <img
-      src="https://img.shields.io/badge/Version-0.1.0-brightgreen"
-      alt="gmoji | version 0.1.0 | gmoji library"
+      src="https://img.shields.io/badge/Version-0.1.4-brightgreen"
+      alt="gmoji | version 0.1.4 | gmoji library"
       style="max-width:100%;"
     />
   </a>
@@ -29,14 +29,7 @@
   </a>
 </div>
 
-<!-- [![Gmoji Preview](data/gmoji-preview-background.jpeg)](https://photos.google.com/search/_tv_Videos/photo/AF1QipM2rO-8cU3uHtA6L5oEWD4yTGbJuaHxC0aLwIoA) -->
 [![Watch the video](data/gmoji-preview-background.jpeg)](data/gmoji-preview.mp4)
-
-<!--<img
-  src=""
-  alt=""
-  style=""
-/>-->
 
 `gmoji` is a emoji library for Go. It lets you use emoji characters in strings and you can use in **Terminal**.
 
