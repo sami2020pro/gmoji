@@ -8,7 +8,7 @@ package
 	}
 **/
 
-var Map = map[string]string{
+var gmojiMap = map[string]string{
 	":Glass:":                   "\uf000",
 	":Music:":                   "\uf001",
 	":Search:":                  "\uf002",
