@@ -73,6 +73,8 @@ Output
   </a>
 </div>
 
+<b>fontawesome 1.0 to 3.0 is available</b>
+
 <!--# Testing 🍷
 ```golang
 go test
