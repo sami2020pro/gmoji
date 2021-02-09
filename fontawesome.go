@@ -271,6 +271,20 @@ const (
 	LocationArrow Gmoji = "\uf124"
 	Crop Gmoji = "\uf125"
 	CodeFork Gmoji = "\uf126"
+	ChainBroken Gmoji = "\uf127"
+	Question Gmoji = "\uf128"
+	Info Gmoji = "\uf129"
+	Exclamation Gmoji = "\uf12a"
+	SuperScript Gmoji = "\uf12b"
+	SubScript Gmoji = "\uf12c"
+	Eraser Gmoji = "\uf12d"
+	PuzzlePiece Gmoji = "\uf12e"
+	Microphone Gmoji = "\uf130"
+	MicrophoneSlash Gmoji = "\uf131"
+	Shield Gmoji = "\uf132"
+	CalenderO Gmoji = "\uf133"
+	FireExtinguisher Gmoji = "\uf134"
+	Rocket Gmoji = "\uf135"
 )
 
 /*
