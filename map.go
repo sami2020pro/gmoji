@@ -257,6 +257,20 @@ var gmojiMap = map[string]string{
 	":GitHubAlt:":               "\uf113",
 	":FolderOutlined:":          "\uf114",
 	":FolderOpenOutlined:":      "\uf115",
+	":SmileOutlined:": "\uf118",
+	":FrownOutlined:": "\uf119",
+	":MehOutlined:": "\uf11a",
+	":Gamepad:": "\uf11b",
+	":KeyboardOutlined:": "\uf11c",
+	":FlagOutlined:": "\uf11d",
+	":FlagCheckered:": "\uf11e",
+	":Terminal:": "\uf120",
+	":Code:": "\uf121",
+	":ReplyAll:": "\uf122",
+	":StarHalfOutlined:": "\uf123",
+	":LocationArrow:": "\uf124",
+	":Crop:": "\uf125",
+	":CodeFork:": "\uf126",
 }
 
 /*
