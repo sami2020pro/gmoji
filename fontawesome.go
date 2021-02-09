@@ -257,6 +257,20 @@ const (
 	GitHubAlt               Gmoji = "\uf113"
 	FolderOutlined          Gmoji = "\uf114"
 	FolderOpenOutlined      Gmoji = "\uf115"
+	SmileOutlined Gmoji = "\uf118"
+	FrownOutlined Gmoji = "\uf119"
+	MehOutlined Gmoji = "\uf11a"
+	Gamepad Gmoji = "\uf11b"
+	KeyboardOutlined Gmoji = "\uf11c"
+	FlagOutlined Gmoji = "\uf11d"
+	FlagCheckered Gmoji = "\uf11e"
+	Terminal Gmoji = "\uf120"
+	Code Gmoji = "\uf121"
+	ReplyAll Gmoji = "\uf122"
+	StarHalfOutlined Gmoji = "\uf123"
+	LocationArrow Gmoji = "\uf124"
+	Crop Gmoji = "\uf125"
+	CodeFork Gmoji = "\uf126"
 )
 
 /*
