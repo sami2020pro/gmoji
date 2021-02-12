@@ -285,6 +285,11 @@ const (
 	CalenderO Gmoji = "\uf133"
 	FireExtinguisher Gmoji = "\uf134"
 	Rocket Gmoji = "\uf135"
+	MaxCDN Gmoji = "\uf136"
+	ChevronCircleLeft Gmoji = "\uf137"
+	ChevronCircleRight Gmoji = "\uf138"
+	ChevronCircleUp Gmoji = "\uf139"
+	Chevron Gmoji = "\uf13a"
 )
 
 /*
