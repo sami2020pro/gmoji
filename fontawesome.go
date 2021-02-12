@@ -289,7 +289,7 @@ const (
 	ChevronCircleLeft Gmoji = "\uf137"
 	ChevronCircleRight Gmoji = "\uf138"
 	ChevronCircleUp Gmoji = "\uf139"
-	Chevron Gmoji = "\uf13a"
+	ChevronCircleDown Gmoji = "\uf13a"
 )
 
 /*
