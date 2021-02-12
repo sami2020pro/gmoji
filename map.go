@@ -279,6 +279,12 @@ var gmojiMap = map[string]string{
 	":SubScript:": "\uf12c",
 	":Eraser:": "\uf12d",
 	":PuzzlePiece:": "\uf12e",
+	":Microphone:": "\uf130",
+	":MicrophoneSlash:": "\uf131",
+	":Shield:": "\uf132",
+	":CalenderO:": "\uf133",
+	":FireExtinguisher:": "\uf134",
+	":Rocket:": "\uf135",
 }
 
 /*
