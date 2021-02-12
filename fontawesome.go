@@ -290,6 +290,18 @@ const (
 	ChevronCircleRight Gmoji = "\uf138"
 	ChevronCircleUp Gmoji = "\uf139"
 	ChevronCircleDown Gmoji = "\uf13a"
+	HTML5Logo Gmoji = "\uf13b"
+	CSS3Logo Gmoji = "\uf13c"
+	Anchor Gmoji = "\uf13d"
+	UnlockAlt Gmoji = "\uf13e"
+	Bullseye Gmoji = "\uf140"
+	EllipsisHorizontal Gmoji = "\uf141"
+	EllipsisVertical Gmoji = "\uf142"
+	RSSSquare Gmoji = "\uf143"
+	PlayCircle Gmoji = "\uf144"
+	Ticket Gmoji = "\uf145"
+	MinusSquare Gmoji = "\uf146"
+	MinusSquareOutlined = "\uf147"
 )
 
 /*
