@@ -271,6 +271,14 @@ var gmojiMap = map[string]string{
 	":LocationArrow:": "\uf124",
 	":Crop:": "\uf125",
 	":CodeFork:": "\uf126",
+	":ChainBroken:": "\uf127",
+	":Question:": "\uf128",
+	":Info:": "\uf129",
+	":Exclamation:": "\uf12a",
+	":SuperScript:": "\uf12b",
+	":SubScript:": "\uf12c",
+	":Eraser:": "\uf12d",
+	":PuzzlePiece:": "\uf12e",
 }
 
 /*
