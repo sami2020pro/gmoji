@@ -3,13 +3,13 @@
 <div>
   <img
       src="https://img.shields.io/badge/Build-Passing-blue"
-      alt="gmoji | version 0.1.4 | gmoji library"
+      alt="gmoji | version 0.1.4-3 | gmoji library"
       style="max-width:100%;"
   />
   <a href="">
     <img
-      src="https://img.shields.io/badge/Version-0.1.4-brightgreen"
-      alt="gmoji | version 0.1.4 | gmoji library"
+      src="https://img.shields.io/badge/Version-0.1.4-3-brightgreen"
+      alt="gmoji | version 0.1.4-3 | gmoji library"
       style="max-width:100%;"
     />
   </a>
