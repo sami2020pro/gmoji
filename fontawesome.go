@@ -301,7 +301,16 @@ const (
 	PlayCircle              Gmoji = "\uf144"
 	Ticket                  Gmoji = "\uf145"
 	MinusSquare             Gmoji = "\uf146"
-	MinusSquareOutlined           = "\uf147"
+	MinusSquareOutlined     Gmoji = "\uf147"
+	LevelUp                 Gmoji = "\uf148"
+	LevelDown               Gmoji = "\uf149"
+	CheckSquare             Gmoji = "\uf14a"
+	PencilSquare            Gmoji = "\uf14b"
+	ExternalLinkSquare      Gmoji = "\uf14c"
+	ShareSquare             Gmoji = "\uf14d"
+	Compass                 Gmoji = "\uf14e"
+	CaretSquareOutlinedDown Gmoji = "\uf150"
+	CaretSquare             Gmoji = "\uf151"
 )
 
 /*
