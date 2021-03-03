@@ -310,7 +310,7 @@ const (
 	ShareSquare             Gmoji = "\uf14d"
 	Compass                 Gmoji = "\uf14e"
 	CaretSquareOutlinedDown Gmoji = "\uf150"
-	CaretSquare             Gmoji = "\uf151"
+	CaretSquareOutlinedUp   Gmoji = "\uf151"
 )
 
 /*
