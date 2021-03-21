@@ -1,3 +1,3 @@
-module github.com/sami2020pro/gmoji
+module gmoji
 
 go 1.16
