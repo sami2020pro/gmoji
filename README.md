@@ -39,7 +39,6 @@
 `gmoji` is a emoji library for Go. It lets you use emoji characters in strings and you can use in **Terminal**.
 
 # Install 🤠
-
 In `Go 1.16` to install if you have the following problem
 
 ```bash
@@ -60,6 +59,13 @@ go get -u github.com/sami2020pro/gmoji
 ```
 
 > Note: if you want to read more about Go 1.16 modules click <a href="https://blog.golang.org/go116-module-changes">here</a>
+
+# Tests
+Use the following command to run the **test**
+
+```bash
+go test -v
+```
 
 # Usage ✊
 ```golang
