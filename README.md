@@ -8,21 +8,26 @@
   />
   <a href="">
     <img
-      src="https://img.shields.io/badge/Version-0.1.4 3-brightgreen"
+      src="https://img.shields.io/badge/Version-0.1.4\-3-brightgreen"
       alt="gmoji | version 0.1.4-3 | gmoji library"
       style="max-width:100%;"
     />
   </a>
   <a href="https://golang.org/">
     <img
-      src="https://img.shields.io/badge/Language-Golang-brightgreen"
-      alt="gmoji | language golang | golang library"
+      src="https://img.shields.io/badge/Language-Go-brightgreen"
+      alt="gmoji | language go | go library"
       style="max-width:100%;"
     />
   </a>
+  <img
+    src="https://img.shields.io/badge/Go Version-1.16-lightgrey"
+    alt="gmoji | go version | go library"
+    style="max-width:100%;"
+  />
   <a href="https://github.com/sami2020pro/gmoji/blob/master/LICENSE">
     <img 
-      src="https://img.shields.io/badge/License-MIT-brightgreen"
+      src="https://img.shields.io/badge/License-MIT-lightgrey"
       alt="gmoji | MIT License | gmoji library"
       style="max-width:100%;"
     />
