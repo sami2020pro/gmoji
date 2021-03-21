@@ -59,6 +59,8 @@ if you don't have a problem, use the following command as before
 go get -u github.com/sami2020pro/gmoji
 ```
 
+> Note: if you want to read more about Go 1.16 modules click <a href="https://blog.golang.org/go116-module-changes">here</a>
+
 # Usage ✊
 ```golang
 package main
