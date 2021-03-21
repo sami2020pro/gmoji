@@ -60,7 +60,7 @@ go get -u github.com/sami2020pro/gmoji
 
 > Note: if you want to read more about Go 1.16 modules click <a href="https://blog.golang.org/go116-module-changes">here</a>
 
-# Tests
+# Tests 🧪
 Use the following command to run the **test**
 
 ```bash
