@@ -40,7 +40,22 @@
 
 # Install 🤠
 
-```golang
+In `Go 1.16` to install if you have the following problem
+
+```bash
+no required module provides package github.com/sami2020pro/gmoji: working directory is not part of a module
+```
+
+you must use the following command
+
+```bash
+go env -w GO111MODULE=auto
+go get -u github.com/sami2020pro/gmoji
+```
+
+if you don't have a problem, use the following command as before
+
+```bash
 go get -u github.com/sami2020pro/gmoji
 ```
 
